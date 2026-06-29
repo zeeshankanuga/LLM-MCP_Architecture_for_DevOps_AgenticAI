@@ -82,7 +82,7 @@ if __name__ == "__main__":
 
 ---
 
-#### **Component 2: MCP Client Agent — `04-agent_with_mcp.py`** (The Tool Consumer)
+#### **Component 2: MCP Client Agent — `agent_with_mcp.py`** (The Tool Consumer)
 
 ```python
 from langchain_mcp_adapters.client import MultiServerMCPClient
